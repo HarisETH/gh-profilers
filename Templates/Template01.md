@@ -22,11 +22,11 @@ Things you need to know about me :
 
 👻 My Langauges :
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>Python</li>
+    <li>C++</li>
 </ul>
 <hr/>
 
