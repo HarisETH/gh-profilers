@@ -30,11 +30,15 @@ Things you need to know about me :
 </ul>
 <hr/>
 
+
+<h2>My Stats</h2>
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariseth&theme=vue)
+
+
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariseth&theme=vue)
 
