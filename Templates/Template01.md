@@ -30,4 +30,11 @@ Things you need to know about me :
 </ul>
 <hr/>
 
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+
