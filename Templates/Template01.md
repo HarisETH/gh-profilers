@@ -33,6 +33,8 @@ Things you need to know about me :
 
 <h2>My Stats</h2>
 <div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariseth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariseth&theme=vue)
