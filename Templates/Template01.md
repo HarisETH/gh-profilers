@@ -7,3 +7,27 @@ Things you need to know about me :
     <li>Web Developer</li>
 </ul>
 <hr />
+
+🎉 My Work :
+
+<ul>
+    <li>Won 3 Hackathons</li>
+    <li>Completed Hashnode's Bootcamp</li>
+    <li>Did my first Website <a href="https://www.google.com" target="_blank">@Google</a></li>
+    <li>Building a community of 1k+ on Instagram <a href="https://www.instagram.com/Four39_Codes" target="_blank">@Four39_Codes</a></li>
+    <li>Contributed to 10+ Opensource projects on Github</li>
+</ul>
+
+<hr />
+
+👻 My Langauges :
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<hr/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
