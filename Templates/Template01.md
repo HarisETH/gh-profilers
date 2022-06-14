@@ -1,4 +1,4 @@
-<div style="font-family: mono;">
+<div style="font-family: monospace;">
 
 Hey There ! Myself Haris 👋🏼
 Things you need to know about me :
