@@ -1,3 +1,10 @@
+<style>
+*{
+    font-family:monospace;
+}
+    </style>
+
+
 <div style="font-family: monospace;">
 
 Hey There ! Myself Haris 👋🏼
