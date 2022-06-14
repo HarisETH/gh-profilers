@@ -1,3 +1,5 @@
+<div style="font-family: mono;">
+
 Hey There ! Myself Haris 👋🏼
 Things you need to know about me :
 <ul>
@@ -52,3 +54,4 @@ Things you need to know about me :
 <h4>Thank you for reading ! Would be grateful if you dropped a follow</h4>
 
 
+</div>
