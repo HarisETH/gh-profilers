@@ -35,7 +35,11 @@ Things you need to know about me :
 <div align="center">
 
 
+<<<<<<< HEAD
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=four39inc&layout=wide)](https://github.com/anuraghazra/github-readme-stats)
+=======
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=four39inc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> e4c5419fad1ca659aeb3595324722b8289f39993
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariseth&theme=vue)
 
