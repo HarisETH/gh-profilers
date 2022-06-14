@@ -8,7 +8,8 @@ Things you need to know about me :
 </ul>
 <hr />
 
-🎉 My Work :
+
+<h2>🎉 My Work :</h2>
 
 <ul>
     <li>Won 3 Hackathons</li>
@@ -20,7 +21,9 @@ Things you need to know about me :
 
 <hr />
 
-👻 My Langauges :
+<h2>👻 My Langauges :</h2>
+
+
 <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -32,6 +35,7 @@ Things you need to know about me :
 
 
 <h2>My Stats</h2>
+
 <div align="center">
 
 
