@@ -1,7 +1,4 @@
-
-
-
-<div style="color:red;">
+<!-- for Header Image visit canva templates folder -->
 
 Hey There ! Myself Haris 👋🏼
 Things you need to know about me :
@@ -39,13 +36,14 @@ Things you need to know about me :
 <hr/>
 
 
-<h2>My Stats</h2>
+<h2>📊 My Stats</h2>
 
 <div >
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=four39inc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=four39inc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- ⚠️ Change username= your github username in above and below url -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=four39inc&hide=contribs,prs)
@@ -56,5 +54,4 @@ Things you need to know about me :
 
 <h3><code>Thank you for reading ! Would be grateful if you dropped a follow 💪</code></h3>
 
-
-</div>
+<!-- End of the code  -->
