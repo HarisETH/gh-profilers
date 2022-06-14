@@ -54,7 +54,7 @@ Things you need to know about me :
 </div>
 <hr />
 
-<code>Thank you for reading ! Would be grateful if you dropped a follow</code>
+<h3><code>Thank you for reading ! Would be grateful if you dropped a follow</code></h3>
 
 
 </div>
