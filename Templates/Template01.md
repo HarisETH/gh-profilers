@@ -16,7 +16,7 @@ Things you need to know about me :
 
 <h2>🎉 My Work :</h2>
 
-<ul>
+<ul> 
     <li>Won 3 Hackathons</li>
     <li>Completed Hashnode's Bootcamp</li>
     <li>Did my first Website <a href="https://www.google.com" target="_blank">@Google</a></li>
