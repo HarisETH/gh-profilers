@@ -41,7 +41,7 @@ Things you need to know about me :
 
 <h2>My Stats</h2>
 
-<div align="center">
+<div align="center" width="60%">
 
 
 
