@@ -41,7 +41,7 @@ Things you need to know about me :
 
 <h2>My Stats</h2>
 
-<div style="display:flex;">
+<div >
 
 
 
@@ -54,7 +54,7 @@ Things you need to know about me :
 </div>
 <hr />
 
-<h3><code>Thank you for reading ! Would be grateful if you dropped a follow</code></h3>
+<h3><code>Thank you for reading ! Would be grateful if you dropped a follow 💪</code></h3>
 
 
 </div>
